@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+groq
+python-dotenv
+pandas
+numpy
+scipy
+upstash-redis
+supabase==1.2.0
+python-multipart
+websockets
